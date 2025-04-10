@@ -7,7 +7,7 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 
 #### **Tecnologias que estou estudando:**
 
-- [Python] **Python** - minha linguagem principal no momento
+- **Python** - minha linguagem principal no momento
 - **HTML & CSS** - criando e estilizando páginas
 - **Lógica de Programação** - base para tudo
 - **Banco de Dados** - modelagem, consultas e organização de dados
